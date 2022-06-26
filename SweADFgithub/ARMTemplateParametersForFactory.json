@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "SweADFgithub"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
