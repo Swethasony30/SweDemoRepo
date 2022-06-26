@@ -1,0 +1,9 @@
+{
+	"name": "SweADFgithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7504ad40-3b3a-48be-a59e-7b97e5249833",
+		"tenantId": "37a2b7d2-6ef9-4cb5-824a-e4956d75036a"
+	}
+}
